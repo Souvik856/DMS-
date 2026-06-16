@@ -1,0 +1,6 @@
+{
+  "name": "DEB MUSIC STUDIO",
+  "description": "DEB MUSIC STUDIO - Professional music app with high-fidelity streaming, real-time audio editing, cloud syncing, Souvik Deb's artist profile and monetization models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
